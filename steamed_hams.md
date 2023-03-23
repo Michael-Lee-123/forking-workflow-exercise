@@ -1,4 +1,4 @@
 an oven
 1 ham
-some steam
+steam
 aurora borealis
